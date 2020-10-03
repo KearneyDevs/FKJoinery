@@ -55,7 +55,7 @@ header h2 {
 
 #menuToggle a:hover
 {
-  color: tomato;
+  color: #000000;
 }
 
 
@@ -148,7 +148,6 @@ header h2 {
 {
   transform: none;
 }
-
 
 .colourTransition {
   
